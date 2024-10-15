@@ -52,11 +52,8 @@ public class LogInScript : MonoBehaviour
     {
         string loginUser = username.text;
         string loginPass = password.text;
-
-        // Check if the username exists
         if (credentials.TryGetValue(loginUser, out string storedPassword))
         {
-            // Check if the password matches
             if (storedPassword == loginPass)
             {
                 Debug.Log("Login successful!");

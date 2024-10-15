@@ -427,10 +427,10 @@
       <HintPath>D:\2023.2.18f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:\JsonNetworking\GameNetworkingWeek8\Library\PackageCache\com.unity.ext.nunit@2.0.5\net40\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>D:\JsonNetworking\JsonProject\GameNetworking\GameNetworkingWeek8\Library\PackageCache\com.unity.ext.nunit@2.0.5\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="JetBrains.Rider.PathLocator">
-      <HintPath>D:\JsonNetworking\GameNetworkingWeek8\Library\PackageCache\com.unity.ide.rider@3.0.28\Rider\Editor\JetBrains.Rider.PathLocator.dll</HintPath>
+      <HintPath>D:\JsonNetworking\JsonProject\GameNetworking\GameNetworkingWeek8\Library\PackageCache\com.unity.ide.rider@3.0.28\Rider\Editor\JetBrains.Rider.PathLocator.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:\2023.2.18f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
